@@ -131,5 +131,5 @@ By combining pegged stablecoins with its existing cross-chain technology, Bitroc
 
 ---
 
-Bitrock’s unique position as an early adopter of cutting-edge cross-chain protocols, coupled with its technical scalability and community-driven ethos, provides the perfect platform to rapidly implement these solutions. By acting swiftly to onboard pegged stablecoins and top-tier assets, Bitrock can secure its status as a mainstay in the blockchain industry, ensuring long-term growth and adoption.
+Bitrock’s unique position as an early adopter of cutting-edge cross-chain protocols, coupled with its technical scalability and community-driven ethos, provides the perfect platform to rapidly implement these solutions. By acting swiftly to onboard other mainstream pegged stablecoins and top-tier assets, Bitrock can secure its status as a mainstay in the blockchain industry, ensuring long-term growth and adoption.
 
