@@ -1,4 +1,4 @@
-# Network Chain 7171 Analysis
+# Bitrock Network - Chain 7171 First Week Analysis
 
 This document provides a detailed analysis of Network Chain 7171, focusing on its community dynamics, technical features, and potential for growth within the blockchain ecosystem. The findings are based on hands-on testing, market observations, and direct interactions with the network's developers and community.
 
